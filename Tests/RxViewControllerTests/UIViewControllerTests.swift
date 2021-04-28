@@ -1,4 +1,4 @@
-#if os(iOS)
+#if os(iOS) && canImport(RxExpect)
 import UIKit
 import XCTest
 
